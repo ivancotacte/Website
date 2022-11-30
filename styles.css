@@ -125,7 +125,7 @@ header {
 }
 
 .h2_text {
-  margin-bottom: var(--mb-2);
+  margin-bottom: 1.5%;
 }
 
 .h3_text {
@@ -146,6 +146,7 @@ header {
 
 .about__img img {
   width: 200px;
+  height: au;
   border-radius: .5rem;
 }
 
